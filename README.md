@@ -8,4 +8,3 @@
 | 1 | [신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235713/overview/description)  | 2021.04.05 ~ 2021.05.24  | `대회참여` : 월간 데이콘 14, 금융, 정형, Logloss  |
 | 2  |  [[문화] 영화 관객수 예측 모델 개발](https://dacon.io/competitions/open/235536/overview/description) |   | `연습` : 교육  |
 | 3  | [집값 예측 경진대회](https://dacon.io/competitions/official/235869/overview/description)  | 2022.01.24 ~ 2022.02.04 |  `대회참여` : 데이콘 베이직 Basic, 정형, NMAE  |
-| 4  | [랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/overview/description)  |  |  `연습` : 컴퓨터 비전, 이미지 분류, GAP  |
