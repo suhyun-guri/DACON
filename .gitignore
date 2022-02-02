@@ -3,3 +3,4 @@ venv/
 log*
 *checkpoints*
 .ipynb_checkpoints/
+catboost_info/
